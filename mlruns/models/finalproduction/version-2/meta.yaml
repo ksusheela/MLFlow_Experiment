@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735768282433
+current_stage: None
+description: ''
+last_updated_timestamp: 1735768282433
+name: finalproduction
+run_id: 4466eb8ce8ce45c680189d7b5ac82ced
+run_link: ''
+source: models:/XGB-Smote/1
+status: READY
+status_message: null
+storage_location: file:///c:/GENAI_PROJECTS/mlops/mlruns/362980801834480704/4466eb8ce8ce45c680189d7b5ac82ced/artifacts/model
+user_id: null
+version: 2

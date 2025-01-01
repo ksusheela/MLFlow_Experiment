@@ -1,0 +1,6 @@
+artifact_location: file:///c:/GENAI_PROJECTS/mlops/mlruns/362980801834480704
+creation_time: 1735767147913
+experiment_id: '362980801834480704'
+last_update_time: 1735767147913
+lifecycle_stage: active
+name: deployment model

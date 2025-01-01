@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/GENAI_PROJECTS/mlops/mlruns/362980801834480704/05cbe406a4c04434a34d48c1b23c8ddd/artifacts
+end_time: 1735767173550
+entry_point_name: ''
+experiment_id: '362980801834480704'
+lifecycle_stage: active
+run_id: 05cbe406a4c04434a34d48c1b23c8ddd
+run_name: Random Forest
+run_uuid: 05cbe406a4c04434a34d48c1b23c8ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735767164774
+status: 3
+tags: []
+user_id: sushe

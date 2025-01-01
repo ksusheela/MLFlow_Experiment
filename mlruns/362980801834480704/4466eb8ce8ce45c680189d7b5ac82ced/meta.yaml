@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/GENAI_PROJECTS/mlops/mlruns/362980801834480704/4466eb8ce8ce45c680189d7b5ac82ced/artifacts
+end_time: 1735767385300
+entry_point_name: ''
+experiment_id: '362980801834480704'
+lifecycle_stage: active
+run_id: 4466eb8ce8ce45c680189d7b5ac82ced
+run_name: XGBClassifier
+run_uuid: 4466eb8ce8ce45c680189d7b5ac82ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735767173600
+status: 3
+tags: []
+user_id: sushe

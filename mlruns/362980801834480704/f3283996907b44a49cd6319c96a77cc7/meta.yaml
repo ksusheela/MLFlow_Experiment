@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/GENAI_PROJECTS/mlops/mlruns/362980801834480704/f3283996907b44a49cd6319c96a77cc7/artifacts
+end_time: 1735767195216
+entry_point_name: ''
+experiment_id: '362980801834480704'
+lifecycle_stage: active
+run_id: f3283996907b44a49cd6319c96a77cc7
+run_name: XGBClassifier With SMOTE
+run_uuid: f3283996907b44a49cd6319c96a77cc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735767182328
+status: 3
+tags: []
+user_id: sushe

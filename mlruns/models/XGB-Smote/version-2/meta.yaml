@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735768269236
+current_stage: None
+description: ''
+last_updated_timestamp: 1735768269236
+name: XGB-Smote
+run_id: 0886e2bc6d3c4f5ab31db995b7f4eb58
+run_link: ''
+source: file:///c:/GENAI_PROJECTS/mlops/mlruns/362980801834480704/0886e2bc6d3c4f5ab31db995b7f4eb58/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/GENAI_PROJECTS/mlops/mlruns/362980801834480704/0886e2bc6d3c4f5ab31db995b7f4eb58/artifacts/model
+user_id: null
+version: 2
